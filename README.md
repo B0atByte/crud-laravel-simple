@@ -46,7 +46,20 @@ php artisan serve
 
 📁 โครงสร้างโปรเจกต์
 
-![image](https://github.com/user-attachments/assets/d99af668-e5db-42a3-b9b3-1a1b04b030f5)
+├── app/
+│   └── Http/
+│       └── Controllers/
+│           └── UserInfoController.php
+├── app/Models/UserInfo.php
+├── database/migrations/xxxx_create_user_infos_table.php
+├── resources/views/users/
+│   ├── index.blade.php
+│   ├── create.blade.php
+│   └── edit.blade.php
+├── routes/web.php
+└── public/
+    └── screenshots/
+
 
 
 🧠 ผู้พัฒนา
