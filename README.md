@@ -37,20 +37,10 @@ php artisan migrate
 php artisan serve
 ✅ จากนั้นเปิดเบราว์เซอร์ไปที่: http://localhost:8000
 ---
+
 📁 โครงสร้างโปรเจกต์
-├── app/
-│   └── Http/
-│       └── Controllers/
-│           └── UserInfoController.php
-├── app/Models/UserInfo.php
-├── database/migrations/xxxx_create_user_infos_table.php
-├── resources/views/users/
-│   ├── index.blade.php
-│   ├── create.blade.php
-│   └── edit.blade.php
-├── routes/web.php
-└── public/
-    └── screenshots/
+![image](https://github.com/user-attachments/assets/bc21569e-15ce-4d27-805d-3f4c27843013)
+
 ---
 🧠 ผู้พัฒนา
 พัฒนาเพื่อฝึก Laravel และใช้เป็นผลงานแสดงความสามารถ
