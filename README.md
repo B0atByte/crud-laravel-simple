@@ -1,7 +1,3 @@
-✅ เวอร์ชันที่แก้ไขแล้วและถูกต้อง 100%
-markdown
-Copy
-Edit
 # 🚀 Laravel CRUD Project (Simple + Bootstrap)
 
 [![Made with Laravel](https://img.shields.io/badge/Laravel-Framework-red?style=flat&logo=laravel)](https://laravel.com)
